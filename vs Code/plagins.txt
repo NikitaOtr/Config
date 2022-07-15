@@ -1,0 +1,12 @@
+1) Auto Complete Tag
+2) Auto Rename Tag
+3) Babel JavaScript
+4) Code Spell Checker
+5) ESLint
+6) Live Server
+7) Material Icon Theme
+8) Night Wolf
+9) Path Intellisense
+10) PostCSS Intellisense and Highlighting
+11) Russian - Code Spell Checker
+
